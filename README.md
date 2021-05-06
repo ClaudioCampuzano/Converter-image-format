@@ -6,5 +6,5 @@
 git clone https://github.com/ClaudioCampuzano/Converter-image-format.git
 cd Converter-image-format/
 git mod tidy
-go run . <path-image> <target-format>
+go run . <path-directory-image> <target-format>
 ```
